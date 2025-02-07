@@ -1,4 +1,4 @@
-# Calcular Sueldo Líquido
+# [Calcular Sueldo Líquido](https://calcularsueldoliquido.com/)
 
 La plataforma **Calcular Sueldo Líquido** ofrece una herramienta intuitiva para determinar el salario neto mensual de los trabajadores en Chile. Esta herramienta permite a los usuarios comprender mejor sus finanzas personales al calcular el sueldo líquido, también conocido como salario neto, que es la cantidad de dinero que un empleado recibe después de que se han deducido todos los impuestos y contribuciones obligatorias de su salario bruto. citeturn0search0
 
